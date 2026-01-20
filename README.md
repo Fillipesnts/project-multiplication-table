@@ -35,3 +35,9 @@ Este projeto foi desenvolvido para praticar:
 - Geração dinâmica da tabuada
 - Limite máximo de multiplicação até **100**
 - Feedback visual caso o limite seja ultrapassado
+
+---
+
+# Deploy do Projeto
+
+- https://fillipesnts.github.io/project-multiplication-table/
